@@ -1,0 +1,17 @@
+certifi==2018.1.18
+chardet==3.0.4
+-e git+https://github.com/tab262/data-analysis.git@359b2e0f90844a039e52283eee6ee071c87d2eb3#egg=data_analysis
+future==0.16.0
+idna==2.6
+jupyter==1.0.0
+nltk==3.2.5
+numpy==1.14.0
+oauthlib==2.0.6
+pandas==0.22.0
+PyQt5==5.10
+python-twitter==3.3
+requests==2.18.4
+requests-oauthlib==0.8.0
+sip==4.19.7
+SQLAlchemy==1.2.1
+urllib3==1.22
